@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872322951776",
+    "project_id": "keep-notes-b1bcf",
+    "storage_bucket": "keep-notes-b1bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872322951776:android:2944e31f4a96c99085b105",
+        "android_client_info": {
+          "package_name": "com.example.keepnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEoChWeH0qhhdY86XhDt-CQ1sZ57Wn3mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

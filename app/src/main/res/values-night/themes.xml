@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KeepNotes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/jet_black</item>
+        <item name="cardBackgroundColor">@color/Grey</item>
+        <item name="background">@color/black</item>
+        <item name="colorSecondary">@color/off_white</item>
+
+
+    </style>
+</resources>
