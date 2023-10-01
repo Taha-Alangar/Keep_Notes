@@ -88,10 +88,11 @@
                 android:drawableStart="@drawable/email_logo"
                 android:drawablePadding="10dp"
                 android:drawableTint="?colorSecondary"
+                android:textColorHint="?colorSecondary"
                 android:hint="Email"
                 android:paddingStart="10dp"
 
-                android:textColorHint="@color/white" />
+                />
 
             <EditText
                 android:id="@+id/editTextPassword"
@@ -106,7 +107,7 @@
                 android:drawableTint="?colorSecondary"
                 android:hint="Password"
                 android:paddingStart="10dp"
-                android:textColorHint="@color/white" />
+                android:textColorHint="?colorSecondary" />
 
             <TextView
                 android:id="@+id/forgotPassword"

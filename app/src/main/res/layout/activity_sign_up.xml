@@ -73,6 +73,7 @@
                 android:layout_marginTop="50dp"
                 android:text="Sign Up"
                 android:textColor="?colorSecondary"
+                android:textColorHint="?colorSecondary"
                 android:textSize="48sp"
                 android:textStyle="bold" />
 
@@ -87,10 +88,10 @@
                 android:drawableStart="@drawable/name_icon"
                 android:drawablePadding="10dp"
                 android:drawableTint="?colorSecondary"
+                android:textColorHint="?colorSecondary"
                 android:hint="Name"
                 android:paddingStart="10dp"
-
-                android:textColorHint="@color/white" />
+                />
 
             <EditText
                 android:id="@+id/editTextEmail"
@@ -105,7 +106,7 @@
                 android:drawableTint="?colorSecondary"
                 android:hint="Email"
                 android:paddingStart="10dp"
-                android:textColorHint="@color/white" />
+                android:textColorHint="?colorSecondary" />
 
             <EditText
                 android:id="@+id/editTextPassword"
